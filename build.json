@@ -1,0 +1,11 @@
+{
+    "default": {
+        "srcPath": "app"
+    },
+    "enviroments": {
+        "dev": {},
+        "qa": {},
+        "stage": {},
+        "prod": {}
+    }
+}

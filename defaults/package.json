@@ -1,0 +1,17 @@
+{
+  "name": "ubo",
+  "version": "0.0.1",
+  "devDependencies": {},
+  "engines": {
+    "node": ">=0.8.0"
+  },
+  "scripts": {
+    "run": "gulp serve"
+  },
+  "dependencies": {
+    "core-decorators": "^0.12.3",
+    "em-project-dev": "1.0.2",
+    "gulp": "^3.9.0",
+    "socket.io-stream": "^0.9.0"
+  }
+}
